@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "087a736d-1fb7-40a4-906c-e49ab7e91dd4": {
+      "ProjectGuid": "087a736d-1fb7-40a4-906c-e49ab7e91dd4",
+      "DisplayName": "Security Panel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
